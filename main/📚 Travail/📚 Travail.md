@@ -1,0 +1,35 @@
+%% Begin Waypoint %%
+- **⚛️ Physique-1ère-spé**
+	- **1. Evolution d'un système chimique**
+		- [[exo_physique.pdf]]
+- **🇪🇦 Espagnole**
+	- [[1. présentation oral]]
+- **🇫🇷 Français-1ère**
+	- **Bac Français**
+		- [[présentation oral de français.odt]]
+	- **Devoirs**
+		- [[abécédaire_candide.odt]]
+		- [[Développement Le Fils.odt]]
+		- [[Dissertation_JLFDM.odt]]
+		- [[né d'aucune femme.odt]]
+	- **Mr.Doge**
+		- [[BAC_BLANC_MAI_2023.docx]]
+		- [[DM_Juste_la_fin_du_monde.odt]]
+		- [[Fiche_de_lecture_Manon_Lescaut.odt]]
+		- [[Methodologie_de_la_fiche_de_lecture.odt]]
+		- [[Objet_detude_1.odt]]
+		- [[Objet_detude_2.odt]]
+		- [[Objet_detude_3.odt]]
+		- [[Objet_detude_4.odt]]
+		- [[Synthese_Appolinaire.odt]]
+	- [[Wajdi Mouawad]]
+- **🇬🇧 Anglais**
+	- **Première**
+		- [[queen anglais.odt]]
+- **🔢 Maths**
+	- [[🧠 Cheat sheet]]
+	- **Terminale**
+		- [[• 1) Suites]]
+- [[physique es.odt]]
+
+%% End Waypoint %%

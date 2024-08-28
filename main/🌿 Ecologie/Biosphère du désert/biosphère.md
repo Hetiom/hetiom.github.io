@@ -1,0 +1,17 @@
+# Alimentation 
+(1) spiruline : cyanobactérie ?
+	- consommée depuis l'Antiquité
+	- besoin de fer d'azote et de soleil
+	- ph idéal 10.2, elle peut mourrir si ph > 11
+	ANC
+	
+hydroponie -> bioponie
+**Plantes cultivables en bioponie :**
+- oxalis
+- lippia dulcis
+- ciboule de chine 
+- sauge ananas
+
+Lacto-fermentation
+
+![[biosphere_rapportdesert_numerique_p1.pdf]]

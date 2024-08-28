@@ -1,0 +1,3 @@
+- **Changer l'extension du fichier** par exemple shell.php -> shell.png.php
+- **Utiliser une autre extension valide mais non-filtrée** par exemple shell.php -> shell.php5 
+- **Changer les premier bit du fichier** (magic numbers)

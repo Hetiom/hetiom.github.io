@@ -1,0 +1,6 @@
+- **faire une chanson avec des parties anglaises et d'autres françaises**
+- Enfaite faut faire les prods avec des loops à lancer c'est bcp mieux pour impro et la créativité je pense.
+- faire deux voix comme la partie de Népal dans necronomicon
+- sampler Edgar Maurin
+- sampler "thème djati"
+- 
